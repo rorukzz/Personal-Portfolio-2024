@@ -1,5 +1,7 @@
 # Rory's Portfolio
 
+![Rory's Portfolio](https://i.postimg.cc/qq77kjd2/GITHUB-THUMBNAIL.png)
+
 This is a portfolio website created using Tailwind CSS. It showcases Rory's skills and projects as a Fullstack Developer.
 
 ## Table of Contents
