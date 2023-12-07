@@ -18,7 +18,7 @@ This website serves as Rory's portfolio. It's currently a work in progress, aimi
 
 ### Inventory App
 - **Description:** An application created to simplify and streamline inventory management.
-- **Stack:** Node.js, Express, MongoDB, React.
+- **Stack:** Node.js, Express, MongoDB, React. 
 - **GitHub Link:** [Inventory App GitHub Repository](https://github.com/rorukzz/InventoryApp)
 
 ### E-Commerce Website
